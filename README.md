@@ -13,3 +13,7 @@ Listing articles features test
 -create 2 articles to display
 -list the 2 articles
 -expect both article titles and bodies to be present
+
+Show articles feature
+-create 1 article to display
+-show article title and body
