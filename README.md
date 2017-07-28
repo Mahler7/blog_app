@@ -17,3 +17,16 @@ Listing articles features test
 Show articles feature
 -create 1 article to display
 -show article title and body
+
+User Sign Up
+-visit root
+-click sign up link
+-email, password, confirm
+-click sign up
+
+Invalid Sign Up
+-visit root
+-click sign up link
+-blank fields
+-click sign up
+-make sure fails
